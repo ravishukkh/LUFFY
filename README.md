@@ -59,14 +59,14 @@ LUFFY/
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
 - [ ] **luffy/deepscaler/utils.py:47** - Add timeout configuration for API calls
-- [ ] **luffy/deepscaler/utils.py:88** - Implement Vertex AI initialization and authentication
-- [ ] **luffy/deepscaler/utils.py:89** - Configure safety settings for content generation
-- [ ] **luffy/deepscaler/utils.py:90** - Set up GenerativeModel with proper system instructions
-- [ ] **luffy/deepscaler/utils.py:91** - Implement retry logic with exponential backoff
-- [ ] **luffy/deepscaler/utils.py:92** - Add comprehensive error handling for API access issues
-- [ ] **luffy/deepscaler/utils.py:93** - Handle rate limiting and quota management
-- [ ] **luffy/deepscaler/utils.py:94** - Implement response validation and text extraction
-- [ ] **luffy/deepscaler/utils.py:95** - Add support for different generation configurations
+- [ ] **luffy/deepscaler/utils.py:107** - Implement Vertex AI initialization and authentication
+- [ ] **luffy/deepscaler/utils.py:108** - Configure safety settings for content generation
+- [ ] **luffy/deepscaler/utils.py:109** - Set up GenerativeModel with proper system instructions
+- [ ] **luffy/deepscaler/utils.py:110** - Implement retry logic with exponential backoff
+- [ ] **luffy/deepscaler/utils.py:111** - Add comprehensive error handling for API access issues
+- [ ] **luffy/deepscaler/utils.py:112** - Handle rate limiting and quota management
+- [ ] **luffy/deepscaler/utils.py:113** - Implement response validation and text extraction
+- [ ] **luffy/deepscaler/utils.py:114** - Add support for different generation configurations
 - [ ] **luffy/test.py:1590** - add smaller page sizes when https://github.com/Dao-AILab/flash-attention/pull/824 is merged
 - [ ] **luffy/verl/examples/split_placement/split_monkey_patch.py:141** - make a canonical logger that supports various backend
 - [ ] **luffy/verl/tests/e2e/check_results.py:21** - this function needs error handling
